@@ -34,7 +34,7 @@ int main() {
 		cout<<"\nEl nombre a buscar no esta en la lista";
 	}
 	else if(band=='V'){
-		cout<<"su nombre "<<dato<<" fue encontrado en la posicion "<<j;
+		cout<<"el nombre "<<dato<<" fue encontrado en la posicion "<<j;
 	}
 	
 	getch();
